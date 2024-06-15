@@ -37,6 +37,11 @@
 
 :triangular_flag_on_post: Misão Prática 
 
-<img src=""  width="640" height="360">
+<img src="https://github.com/Jessicac30/Missao-5-Mundo-4/blob/main/resultados/9.1.png?raw=true"  width="640" height="360">
+<img src="https://github.com/Jessicac30/Missao-5-Mundo-4/blob/main/resultados/10.1.png?raw=true"  width="640" height="360">
+<img src="https://github.com/Jessicac30/Missao-5-Mundo-4/blob/main/resultados/11.1.png?raw=true"  width="640" height="360">
+<img src="https://github.com/Jessicac30/Missao-5-Mundo-4/blob/main/resultados/12.1.png?raw=true"  width="640" height="360">
+<img src="https://github.com/Jessicac30/Missao-5-Mundo-4/blob/main/resultados/13.png?raw=true"  width="640" height="360">
+<img src="https://github.com/Jessicac30/Missao-5-Mundo-4/blob/main/resultados/resultado.png?raw=true"  width="640" height="360">
 
 <br>
